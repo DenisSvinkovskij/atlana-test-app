@@ -6,4 +6,3 @@ export const api = axios.create({
     Authorization: `Bearer ${process.env.REACT_APP_GH_TOKEN}`,
   },
 });
-console.log(process.env);
