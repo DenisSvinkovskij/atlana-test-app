@@ -2,7 +2,7 @@
   "name": "atlana-test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DenisSvinkovskij/atlana-test-app/blob/main/public/index.html",
+  "homepage": "https://github.com/DenisSvinkovskij/atlana-test-app/blob/main/src/index.tsx",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
