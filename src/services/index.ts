@@ -3,6 +3,6 @@ import axios from 'axios';
 export const api = axios.create({
   baseURL: 'https://api.github.com/',
   headers: {
-    Authorization: `Bearer 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`,
+    Authorization: `token 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`,
   },
 });
