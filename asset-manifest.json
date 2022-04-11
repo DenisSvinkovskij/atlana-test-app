@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DenisSvinkovskij/atlana-test-app/static/css/main.0bc041fc.css",
-    "main.js": "/DenisSvinkovskij/atlana-test-app/static/js/main.8fa193e3.js",
-    "index.html": "/DenisSvinkovskij/atlana-test-app/index.html",
-    "main.0bc041fc.css.map": "/DenisSvinkovskij/atlana-test-app/static/css/main.0bc041fc.css.map",
-    "main.8fa193e3.js.map": "/DenisSvinkovskij/atlana-test-app/static/js/main.8fa193e3.js.map"
+    "main.css": "/atlana-test-app/static/css/main.0bc041fc.css",
+    "main.js": "/atlana-test-app/static/js/main.8fa193e3.js",
+    "index.html": "/atlana-test-app/index.html",
+    "main.0bc041fc.css.map": "/atlana-test-app/static/css/main.0bc041fc.css.map",
+    "main.8fa193e3.js.map": "/atlana-test-app/static/js/main.8fa193e3.js.map"
   },
   "entrypoints": ["static/css/main.0bc041fc.css", "static/js/main.8fa193e3.js"]
 }
