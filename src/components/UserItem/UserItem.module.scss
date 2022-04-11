@@ -1,0 +1,25 @@
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 30px;
+  cursor: pointer;
+  transition: all 150ms ease-in;
+  &:hover {
+    transform: scale(1.05);
+  }
+  background-color: inherit;
+}
+
+.imgContainer {
+  width: 70px;
+  @media screen and (max-width: 768px) {
+    width: 50px;
+  }
+}
+
+.image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
